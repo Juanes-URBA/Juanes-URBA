@@ -56,8 +56,6 @@
 
 ---
 
----
-
 # ⭐ Proyectos
 
 🚀 GreenTravel
@@ -66,18 +64,6 @@
 
 🛒 CRUD Spring Boot
 
-
----
-
-# 📈 Estadísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Juanes-URBA&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanes-URBA&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
