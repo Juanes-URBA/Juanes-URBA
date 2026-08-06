@@ -81,32 +81,6 @@
 
 ---
 
-# 🔥 Racha de contribuciones
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Juanes-URBA&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Juanes-URBA&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-# 📊 Actividad
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanes-URBA&theme=tokyo-night"/>
-
----
-
 # 🤝 Conecta conmigo
 
 💼 LinkedIn *(Agrega aquí tu enlace)*
