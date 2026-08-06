@@ -51,7 +51,7 @@
 ### Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,maven,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,maven,postman,insomnia"/>
 </p>
 
 ---
