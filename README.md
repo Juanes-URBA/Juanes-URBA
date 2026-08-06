@@ -80,11 +80,6 @@
 
 🛒 CRUD Spring Boot
 
-🐱 Consumo de API Pokémon
-
-📦 APIs REST
-
-🎓 Proyectos académicos del SENA
 
 ---
 
