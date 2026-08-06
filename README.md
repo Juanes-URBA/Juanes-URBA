@@ -45,7 +45,7 @@
 ### Bases de datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo"/>
 </p>
 
 ### Herramientas
