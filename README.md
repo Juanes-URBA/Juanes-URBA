@@ -33,13 +33,13 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap"/>
 </p>
 
 ### Bases de datos
