@@ -12,9 +12,7 @@
 
 # 🚀 Sobre mí
 
-🎓 Tecnólogo en Análisis y Desarrollo de Software.
-
-🎓 Estudiante de Ingeniería de Sistemas.
+🎓 Estudiante Análisis y Desarrollo de Software.
 
 💻 Apasionado por el desarrollo Backend con Java y Spring Boot.
 
