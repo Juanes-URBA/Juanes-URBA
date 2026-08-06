@@ -39,7 +39,7 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss"/>
 </p>
 
 ### Bases de datos
@@ -51,24 +51,10 @@
 ### Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,maven,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,maven,insomia"/>
 </p>
 
 ---
-
-# 📚 Actualmente trabajando en
-
-✅ APIs REST
-
-✅ Microservicios con Spring Boot
-
-✅ Arquitectura en Capas
-
-✅ Arquitectura Hexagonal
-
-✅ Docker
-
-✅ Angular
 
 ---
 
